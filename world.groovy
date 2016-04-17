@@ -11,3 +11,6 @@ Scenario Outline: I a the second niceer scenario
 	When I want to do sothing
 	Then I get a point for "<thing>"
 
+Scenario: Third scenario
+	Then I run
+
